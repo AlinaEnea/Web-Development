@@ -34,4 +34,5 @@ window.addEventListener("mouseover", (e) => {
 
     update(e.clientX);
     console.log(xValue, yValue)
+    
 });
